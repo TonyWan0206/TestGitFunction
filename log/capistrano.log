@@ -1,0 +1,437 @@
+# Logfile created on 2017-04-21 16:54:58 +0800 by logger.rb/56438
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 16:54:58 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [09b08581] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [09b08581] Command: echo C:\TestDeploy
+ DEBUG [09b08581] 	C:\TestDeploy
+  INFO [09b08581] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [da25481c] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [da25481c] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [da25481c] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 16:58:30 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [84b2cb92] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [84b2cb92] Command: echo C:\TestDeploy
+ DEBUG [84b2cb92] 	C:\TestDeploy
+  INFO [84b2cb92] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [bb754862] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [bb754862] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [bb754862] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 17:12:51 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [9704983b] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [9704983b] Command: echo C:\TestDeploy
+ DEBUG [9704983b] 	C:\TestDeploy
+  INFO [9704983b] Finished in 0.413 seconds with exit status 0 (successful).
+  INFO [0816f100] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [0816f100] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [0816f100] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 17:16:37 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7b332d76] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [7b332d76] Command: echo C:\TestDeploy
+ DEBUG [7b332d76] 	C:\TestDeploy
+  INFO [7b332d76] Finished in 0.034 seconds with exit status 0 (successful).
+  INFO [2de83712] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [2de83712] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [2de83712] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 17:25:35 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [dd82a40b] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [dd82a40b] Command: echo C:\TestDeploy
+ DEBUG [dd82a40b] 	C:\TestDeploy
+  INFO [dd82a40b] Finished in 0.020 seconds with exit status 0 (successful).
+  INFO [1d64bf42] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [1d64bf42] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [1d64bf42] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 17:30:02 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [76e84c67] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [76e84c67] Command: echo C:\TestDeploy
+ DEBUG [76e84c67] 	C:\TestDeploy
+  INFO [76e84c67] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [1ef5d04d] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [1ef5d04d] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [1ef5d04d] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 17:44:17 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b4d89098] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [b4d89098] Command: echo C:\TestDeploy
+ DEBUG [b4d89098] 	C:\TestDeploy
+  INFO [b4d89098] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [f6aed988] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [f6aed988] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [f6aed988] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 17:51:14 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [39a23fc2] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [39a23fc2] Command: echo C:\TestDeploy
+ DEBUG [39a23fc2] 	C:\TestDeploy
+  INFO [39a23fc2] Finished in 0.017 seconds with exit status 0 (successful).
+  INFO [c2ef3452] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [c2ef3452] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [c2ef3452] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 17:58:45 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e046d81a] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [e046d81a] Command: echo C:\TestDeploy
+ DEBUG [e046d81a] 	C:\TestDeploy
+  INFO [e046d81a] Finished in 0.023 seconds with exit status 0 (successful).
+  INFO [56088fda] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [56088fda] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [56088fda] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 18:06:18 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [52d1cee8] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [52d1cee8] Command: echo C:\TestDeploy
+ DEBUG [52d1cee8] 	C:\TestDeploy
+  INFO [52d1cee8] Finished in 0.019 seconds with exit status 0 (successful).
+  INFO [72a2e4ff] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [72a2e4ff] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [72a2e4ff] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 18:08:56 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [8917d4fc] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [8917d4fc] Command: echo C:\TestDeploy
+ DEBUG [8917d4fc] 	C:\TestDeploy
+  INFO [8917d4fc] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [f1c17a68] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [f1c17a68] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [f1c17a68] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-21 18:09:15 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [85906acb] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [85906acb] Command: echo C:\TestDeploy
+ DEBUG [85906acb] 	C:\TestDeploy
+  INFO [85906acb] Finished in 0.016 seconds with exit status 0 (successful).
+  INFO [5fac732a] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [5fac732a] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [5fac732a] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:26:18 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [ae6e1b44] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [ae6e1b44] Command: echo C:\TestDeploy
+ DEBUG [ae6e1b44] 	C:\TestDeploy
+  INFO [ae6e1b44] Finished in 0.016 seconds with exit status 0 (successful).
+  INFO [fedfc652] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [fedfc652] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [fedfc652] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:27:01 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [557162f0] Running dir C:\TestDeploy as tonyw@localhost
+ DEBUG [557162f0] Command: dir C:\TestDeploy
+ DEBUG [557162f0] 	 磁碟區 C 中的磁碟沒有標籤。
+ DEBUG [557162f0] 	 磁碟區序號:  CCC7-51E3
+ DEBUG [557162f0] 	
+ DEBUG [557162f0] 	 C:\TestDeploy 的目錄
+ DEBUG [557162f0] 	
+ DEBUG [557162f0] 	19/04/2017  12:23    <DIR>          .
+ DEBUG [557162f0] 	19/04/2017  12:23    <DIR>          ..
+ DEBUG [557162f0] 	               0 個檔案               0 位元組
+ DEBUG [557162f0] 	               2 個目錄  414,442,323,968 位元組可用
+  INFO [557162f0] Finished in 0.078 seconds with exit status 0 (successful).
+  INFO [0e971898] Running echo C:\TestDeploy as tonyw@localhost
+ DEBUG [0e971898] Command: echo C:\TestDeploy
+ DEBUG [0e971898] 	C:\TestDeploy
+  INFO [0e971898] Finished in 0.000 seconds with exit status 0 (successful).
+  INFO [a1f196e8] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [a1f196e8] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [a1f196e8] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:30:21 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [842fc880] Running /usr/bin/env pwd as tonyw@localhost
+ DEBUG [842fc880] Command: /usr/bin/env pwd
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:30:55 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [d3190d3d] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [d3190d3d] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [d3190d3d] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:32:32 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [971aa95d] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [971aa95d] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [971aa95d] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:32:56 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [a9376f8f] Running /usr/bin/env pwd as tonyw@localhost
+ DEBUG [a9376f8f] Command: /usr/bin/env pwd
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:38:01 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [01bc8536] Running /usr/bin/env pwd as tonyw@localhost
+ DEBUG [01bc8536] Command: /usr/bin/env pwd
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:39:29 +0800 cap production git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [2e17d71c] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [2e17d71c] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [2e17d71c] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:44:09 +0800 cap production git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [15cbc47a] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [15cbc47a] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [15cbc47a] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:44:21 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0f8dec8d] Running dir C:\TestDeploy as tonyw@localhost
+ DEBUG [0f8dec8d] Command: dir C:\TestDeploy
+ DEBUG [0f8dec8d] 	 磁碟區 C 中的磁碟沒有標籤。
+ DEBUG [0f8dec8d] 	 磁碟區序號:  CCC7-51E3
+ DEBUG [0f8dec8d] 	
+ DEBUG [0f8dec8d] 	 C:\TestDeploy 的目錄
+ DEBUG [0f8dec8d] 	
+ DEBUG [0f8dec8d] 	19/04/2017  12:23    <DIR>          .
+ DEBUG [0f8dec8d] 	19/04/2017  12:23    <DIR>          ..
+ DEBUG [0f8dec8d] 	               0 個檔案               0 位元組
+ DEBUG [0f8dec8d] 	               2 個目錄  414,069,944,320 位元組可用
+  INFO [0f8dec8d] Finished in 0.026 seconds with exit status 0 (successful).
+  INFO [9a4619f8] Running /usr/bin/env pwd as tonyw@localhost
+ DEBUG [9a4619f8] Command: /usr/bin/env pwd
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:44:55 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [cc1442e8] Running dir C:\TestDeploy as tonyw@localhost
+ DEBUG [cc1442e8] Command: dir C:\TestDeploy
+ DEBUG [cc1442e8] 	 磁碟區 C 中的磁碟沒有標籤。
+ DEBUG [cc1442e8] 	 磁碟區序號:  CCC7-51E3
+ DEBUG [cc1442e8] 	
+ DEBUG [cc1442e8] 	 C:\TestDeploy 的目錄
+ DEBUG [cc1442e8] 	
+ DEBUG [cc1442e8] 	19/04/2017  12:23    <DIR>          .
+ DEBUG [cc1442e8] 	19/04/2017  12:23    <DIR>          ..
+ DEBUG [cc1442e8] 	               0 個檔案               0 位元組
+ DEBUG [cc1442e8] 	               2 個目錄  414,069,944,320 位元組可用
+  INFO [cc1442e8] Finished in 0.024 seconds with exit status 0 (successful).
+  INFO [5b2a0620] Running /usr/bin/env whoami as tonyw@localhost
+ DEBUG [5b2a0620] Command: /usr/bin/env whoami
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:46:11 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [ac87b9f6] Running dir C:\TestDeploy as tonyw@localhost
+ DEBUG [ac87b9f6] Command: dir C:\TestDeploy
+ DEBUG [ac87b9f6] 	 磁碟區 C 中的磁碟沒有標籤。
+ DEBUG [ac87b9f6] 	 磁碟區序號:  CCC7-51E3
+ DEBUG [ac87b9f6] 	
+ DEBUG [ac87b9f6] 	 C:\TestDeploy 的目錄
+ DEBUG [ac87b9f6] 	
+ DEBUG [ac87b9f6] 	19/04/2017  12:23    <DIR>          .
+ DEBUG [ac87b9f6] 	19/04/2017  12:23    <DIR>          ..
+ DEBUG [ac87b9f6] 	               0 個檔案               0 位元組
+ DEBUG [ac87b9f6] 	               2 個目錄  414,069,911,552 位元組可用
+  INFO [ac87b9f6] Finished in 0.022 seconds with exit status 0 (successful).
+  INFO [8c844b36] Running /usr/bin/env whoami as tonyw@localhost
+ DEBUG [8c844b36] Command: /usr/bin/env whoami
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:46:20 +0800 cap production git:check
+  INFO ---------------------------------------------------------------------------
+  INFO [4e5fea82] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [4e5fea82] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [4e5fea82] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:46:25 +0800 cap production git:checkcls
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:46:30 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [1308b5c2] Running dir C:\TestDeploy as tonyw@localhost
+ DEBUG [1308b5c2] Command: dir C:\TestDeploy
+ DEBUG [1308b5c2] 	 磁碟區 C 中的磁碟沒有標籤。
+ DEBUG [1308b5c2] 	 磁碟區序號:  CCC7-51E3
+ DEBUG [1308b5c2] 	
+ DEBUG [1308b5c2] 	 C:\TestDeploy 的目錄
+ DEBUG [1308b5c2] 	
+ DEBUG [1308b5c2] 	19/04/2017  12:23    <DIR>          .
+ DEBUG [1308b5c2] 	19/04/2017  12:23    <DIR>          ..
+ DEBUG [1308b5c2] 	               0 個檔案               0 位元組
+ DEBUG [1308b5c2] 	               2 個目錄  414,069,919,744 位元組可用
+  INFO [1308b5c2] Finished in 0.023 seconds with exit status 0 (successful).
+  INFO [d66ec974] Running /usr/bin/env ls as tonyw@localhost
+ DEBUG [d66ec974] Command: /usr/bin/env ls
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:48:13 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [fc463962] Running cd C:\TestDeploy as tonyw@localhost
+ DEBUG [fc463962] Command: cd C:\TestDeploy
+  INFO [fc463962] Finished in 0.021 seconds with exit status 0 (successful).
+  INFO [e15011c8] Running /usr/bin/env ls as tonyw@localhost
+ DEBUG [e15011c8] Command: /usr/bin/env ls
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:48:33 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [02e5a46a] Running cd C:\TestDeploy as tonyw@localhost
+ DEBUG [02e5a46a] Command: cd C:\TestDeploy
+  INFO [02e5a46a] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [c44d136e] Running cd ./ as tonyw@localhost
+ DEBUG [c44d136e] Command: cd ./
+  INFO [c44d136e] Finished in 0.015 seconds with exit status 0 (successful).
+  INFO [3641c7e6] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [3641c7e6] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [3641c7e6] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:48:44 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [32f13d6c] Running cd C:\TestDeploy as tonyw@localhost
+ DEBUG [32f13d6c] Command: cd C:\TestDeploy
+  INFO [32f13d6c] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [9cbc3967] Running cd ./ as tonyw@localhost
+ DEBUG [9cbc3967] Command: cd ./
+  INFO [9cbc3967] Finished in 0.017 seconds with exit status 0 (successful).
+  INFO [38eec465] Running cd dir as tonyw@localhost
+ DEBUG [38eec465] Command: cd dir
+ DEBUG [38eec465] 	系統找不到指定的路徑。
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:48:54 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [3b8b5d70] Running cd C:\TestDeploy as tonyw@localhost
+ DEBUG [3b8b5d70] Command: cd C:\TestDeploy
+  INFO [3b8b5d70] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [e1eca7e7] Running cd ./ as tonyw@localhost
+ DEBUG [e1eca7e7] Command: cd ./
+  INFO [e1eca7e7] Finished in 0.014 seconds with exit status 0 (successful).
+  INFO [72890a7a] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [72890a7a] Command: /usr/bin/env dir
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:53:57 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0509d9da] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [0509d9da] Command: /usr/bin/env dir
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:55:07 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [22b18918] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [22b18918] Command: /usr/bin/env dir
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 09:58:25 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [8a582418] Running /usr/bin/env mkdir -p C:\TestDeploy/rvm1scripts/ as tony@localhost
+ DEBUG [8a582418] Command: /usr/bin/env mkdir -p C:\TestDeploy/rvm1scripts/
+ DEBUG [8a582418] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:00:50 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b2c2024d] Running /usr/bin/env mkdir -p /C/TestDeploy/rvm1scripts/ as tony@localhost
+ DEBUG [b2c2024d] Command: /usr/bin/env mkdir -p /C/TestDeploy/rvm1scripts/
+ DEBUG [b2c2024d] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:01:50 +0800 cap production rvm1:check
+  INFO ---------------------------------------------------------------------------
+  INFO [bb8ff387] Running /usr/bin/env mkdir -p /C/TestDeploy/rvm1scripts/ as tony@localhost
+ DEBUG [bb8ff387] Command: /usr/bin/env mkdir -p /C/TestDeploy/rvm1scripts/
+ DEBUG [bb8ff387] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:04:22 +0800 cap production rvm1:check
+  INFO ---------------------------------------------------------------------------
+  INFO [1abfaf3c] Running /usr/bin/env mkdir -p /C/TestDeploy/rvm1scripts/ as tony@localhost
+ DEBUG [1abfaf3c] Command: /usr/bin/env mkdir -p /C/TestDeploy/rvm1scripts/
+ DEBUG [1abfaf3c] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:04:33 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [6b825a7f] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [6b825a7f] Command: /usr/bin/env dir
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:07:42 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [ed4f6649] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [ed4f6649] Command: /usr/bin/env dir
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:08:55 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [36b93b4a] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [36b93b4a] Command: ( export PATH="~/.rbenv/shims:~/.rbenv/bin:$PATH" ; /usr/bin/env dir )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:09:18 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [21cb4c79] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [21cb4c79] Command: ( export PATH="C:\Working\TestGitFunction" ; /usr/bin/env dir )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:09:33 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [f9a89c11] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [f9a89c11] Command: ( export PATH="C:\Working\TestGitFunction" ; /usr/bin/env dir )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:30:35 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [d170f76e] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [d170f76e] Command: ( export PATH="C:\Working\TestGitFunction" ; /usr/bin/env dir )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:33:08 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [1fe46920] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [1fe46920] Command: ( export PATH="C:\Working\TestGitFunction" ; /usr/bin/env dir )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:36:16 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [c7162b83] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [c7162b83] Command: ( export PATH="C:\Working\TestGitFunction" ; /usr/bin/env dir )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:38:29 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [f960f3d5] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [f960f3d5] Command: ( export PATH="C:WorkingTestGitFunction" ; /usr/bin/env dir )
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:41:13 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b93c3324] Running /usr/bin/env pwd as tonyw@localhost
+ DEBUG [b93c3324] Command: /usr/bin/env pwd
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:42:37 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [11fa51d1] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [11fa51d1] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [11fa51d1] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:43:04 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [91c12d6f] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [91c12d6f] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [91c12d6f] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:43:16 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [f6a07af7] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [f6a07af7] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [f6a07af7] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:43:23 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [8bbdfdb4] Running /usr/bin/env mkdir -p /tmp as tony@localhost
+ DEBUG [8bbdfdb4] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [8bbdfdb4] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:43:49 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [4fc0bcde] Running /usr/bin/env pwd as tony@localhost
+ DEBUG [4fc0bcde] Command: /usr/bin/env pwd
+ DEBUG [4fc0bcde] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:44:03 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [66a9203c] Running /usr/bin/env dir as tony@localhost
+ DEBUG [66a9203c] Command: /usr/bin/env dir
+ DEBUG [66a9203c] 	Unable to execute command or shell on remote system: Failed to Execute process.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-24 10:50:17 +0800 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [1bfb02d5] Running /usr/bin/env dir as tonyw@localhost
+ DEBUG [1bfb02d5] Command: /usr/bin/env dir
