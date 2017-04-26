@@ -1,6 +1,0 @@
-development:
-  adapter: sqlserver
-  host: sqldb04
-  database: OTesting
-  username: dev_user
-  password: 36P-QksX

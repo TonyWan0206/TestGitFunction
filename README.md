@@ -1,2 +1,0 @@
-# TestGitFunction
-TestGitFunction
